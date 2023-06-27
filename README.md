@@ -8,5 +8,3 @@ Perguntas
 Acertos
 ![acertos](https://github.com/Grasyynha/quiz/assets/45572377/15554710-96ed-4ac8-9d3d-dbf1254ae0ab)
 
-![Uploading perguntas.png…]()
-![Uploading acertos.png…]()

@@ -6,7 +6,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- Como Acessar o Projeto
+
+<h1>Como Acessar o Projeto</h1>
 - Para acessar o projeto, siga as instruções abaixo:
 
 Faça o download dos arquivos do projeto para o seu computador.
